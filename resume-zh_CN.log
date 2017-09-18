@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.11.2)  18 SEP 2017 23:55
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.11.2)  19 SEP 2017 00:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1657,23 +1657,10 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 )
-! Undefined control sequence.
-<recently read> ...业的股票进行聚簇分析 
-                                                  
-l.27 ...间段和行业的股票进行聚簇分析
-                                                  
-? 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 34.
+(hyperref)                removing `\char' on input line 32.
 
-! Undefined control sequence.
-<recently read> \item负责基于近 
-                                     
-l.51   \item负责基于近
-                           4万的金融交流群聊天记录的文本分析...
-
-? 
 
 ! LaTeX Error: \begin{document} ended by \end{onehalfspacing}.
 
@@ -1681,46 +1668,46 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.54 \end{onehalfspacing}
+l.57 \end{onehalfspacing}
                          
 ? 
 ! Extra \endgroup.
 <recently read> \endgroup 
                           
-l.54 \end{onehalfspacing}
+l.57 \end{onehalfspacing}
                          
 ? 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 56.
+(hyperref)                removing `\char' on input line 59.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 60.
+(hyperref)                removing `\char' on input line 63.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 69.
+(hyperref)                removing `\char' on input line 71.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\char' on input line 80.
+(hyperref)                removing `\char' on input line 79.
 
 [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
  (./resume-zh_CN.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 91.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 91.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 85.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 85.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 36216 strings out of 493591
- 699565 string characters out of 6143546
- 695217 words of memory out of 5000000
- 39198 multiletter control sequences out of 15000+600000
+ 36214 strings out of 493591
+ 699529 string characters out of 6143546
+ 696215 words of memory out of 5000000
+ 39196 multiletter control sequences out of 15000+600000
  4588 words of font info for 52 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  69i,5n,74p,10517b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
